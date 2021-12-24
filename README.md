@@ -5,6 +5,6 @@
 |      NRP       |     Nama     |
 | :------------: | :----------: |
 | 05111940000064 | Ifanu Antoni |
-|  05111940000   |    Kelvin    |
-|  05111940000   |    Albert    |
-|  05111940000   |   Jonathan   |
+|  05111940000080   |    Kelvin Andersen   |
+|  05111940000116   |    Albert Filip Silalahi  |
+|  05111940000120  |   Jonathan Timothy Siregar   |
